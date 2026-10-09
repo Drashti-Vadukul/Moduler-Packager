@@ -233,6 +233,7 @@ Project_7/
 │
 ├── Main.py
 ├── Output.png
+|── sample.txt
 └── README.md
 ```
 

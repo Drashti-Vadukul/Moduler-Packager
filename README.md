@@ -8,7 +8,7 @@ A Python-based menu-driven console application developed to demonstrate custom m
 
 **Drashti Vadukul**
 
-College Student | Learning Python, Web Development & Software Engineering
+College Student | BCA Student | Learning Python, AI, ML & Data Science
 
 ---
 
